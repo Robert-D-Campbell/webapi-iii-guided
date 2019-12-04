@@ -1,5 +1,7 @@
 # Node API 3 Guided Project
 
+# initial commit
+
 Starter code for **Node API 3** lecture.
 
 In this project we will learn how to create a very simple Web API using `Node.js` and `Express`, and learn to write and use `Express Middleware`.
